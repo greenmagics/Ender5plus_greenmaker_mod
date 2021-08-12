@@ -1,4 +1,5 @@
-# Ender5plus_greenmaker_mod
+![5](https://user-images.githubusercontent.com/63156105/129177102-61972bfe-a88e-4af3-abc9-ad9dfe6e68fd.jpg)
+# Ender5plus GreenMaker MOD by GreenMagic
 Oto mój projekt drukarki 3D opartej na Ender 5 plus.
 Lista zmian względem oryginalnej konstrukcji:
 
@@ -14,7 +15,7 @@ Z powodzeniem od roku używam poprzedniej wersji tego projektu, która wykorzyst
 Niewielki luz, który jest potrzebny do poprawnej pracy wózka liniowego powodował wibracje stosunkowo ciężkiego napędu direct i drgania.
 Zastosowanie dwóch prowadnic liniowych z obu stron profila 2020 wraz z systemem kasowania luzu rozwiązuje ten problem.
 
-![5](https://user-images.githubusercontent.com/63156105/129177102-61972bfe-a88e-4af3-abc9-ad9dfe6e68fd.jpg)
+
 
 ![2](https://user-images.githubusercontent.com/63156105/129178478-3ee4dbcb-6bc3-4a23-9013-49e08a8b4ee9.jpg)
 ![3](https://user-images.githubusercontent.com/63156105/129178535-581f1551-ab19-4672-b745-010c542b4845.jpg)
